@@ -127,7 +127,7 @@ Eclipses#3872
 </ul>
 </div>
 -->
-<p align = "center" style = "bold" Credit Code to 0xAbdulKhalid</p>
+<p align = "center" style = "bold" Credit Code to 0xAbdulKhalid>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
