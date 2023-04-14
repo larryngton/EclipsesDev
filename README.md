@@ -129,7 +129,7 @@ Eclipses#3872
 -->
 <b>
 <p align="center">
-Credit Code to <a href="https://github.com/0xabdulkhalid" target="_blank">0xAbdulKhalid</a>
+Credit README Code to <a href="https://github.com/0xabdulkhalid" target="_blank">0xAbdulKhalid</a>
 </p>
 </b>
 
