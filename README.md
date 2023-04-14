@@ -18,7 +18,7 @@
 - Currently learning HTML, CSS & Little bit of Java
 - Playing Minecraft & Watching Youtube at spare time
 - Currently learning Web Development by Self
-- My Personal Website <a href="https://eclipses.pw/">Link</a>
+- My Personal Website <a href="https://eclipses.pw/" target = "_blank">Link</a>
 
 <br><br>
 
