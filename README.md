@@ -98,9 +98,11 @@
 <div align='left'>
 
 <b>
+<p align="center">
 My Discord:
 <br>
 Eclipses#3872
+</p>
 </b>
 	
 <br>
@@ -126,7 +128,9 @@ Eclipses#3872
 </div>
 -->
 <b>
+<p align="center">
 Credit Code to <a href="https://github.com/0xabdulkhalid" target="_blank">0xAbdulKhalid</a>
+</p>
 </b>
 
 <br>
