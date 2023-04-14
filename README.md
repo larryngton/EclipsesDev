@@ -86,8 +86,8 @@
 
 <ul>
 
-<p align = center>
-**My Discord:**
+<p align = "center" font-style = "bold" >
+My Discord:
 <br>
 Eclipses#3872
 </p>
