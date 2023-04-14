@@ -86,11 +86,9 @@
 
 <ul>
 
-<li>
-<a href="https://discord.com/app" target="_blank">
-<img src="https://img.shields.io/badge/discord:  Eclipses#3872-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Discord style="margin-bottom: 5px;"/>
-</a>
-</li>
+<p align = center>
+![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+</p>
 
 <br>
 
