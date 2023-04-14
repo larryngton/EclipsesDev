@@ -87,7 +87,9 @@
 <ul>
 
 <p align = center>
-![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**My Discord:**
+<br>
+Eclipses#3872
 </p>
 
 <br>
