@@ -97,7 +97,7 @@
 <br>
 <div align='left'>
 
-<b = "center">
+<b>
 My Discord:
 <br>
 Eclipses#3872
@@ -125,7 +125,7 @@ Eclipses#3872
 </ul>
 </div>
 -->
-<b = "center">
+<b>
 Credit Code to <a href="https://github.com/0xabdulkhalid" target="_blank">0xAbdulKhalid</a>
 </b>
 
