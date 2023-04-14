@@ -15,10 +15,10 @@
 
 <br>
 
-- Currently learning HTML & CSS
+- Currently learning HTML, CSS & Little bit of Java
 - Playing Minecraft & Watching Youtube at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.eclipses.pw)
+- Personal website [link](https://eclipses.pw)
 
 <br><br>
 
