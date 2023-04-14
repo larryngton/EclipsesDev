@@ -97,12 +97,10 @@
 <br>
 <div align='left'>
 
-<bold>
-<p align = "center" >
+<bold align = "center">
 My Discord:
 <br>
 Eclipses#3872
-</p>
 </bold>
 	
 <br>
@@ -127,10 +125,8 @@ Eclipses#3872
 </ul>
 </div>
 -->
-<bold>
-<p align = "center">
+<bold align = "center">
 Credit Code to <a href="https://github.com/0xabdulkhalid" target="_blank">0xAbdulKhalid</a>
-</p>
 </bold>
 
 <br>
