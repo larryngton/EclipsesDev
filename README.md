@@ -33,7 +33,7 @@
 
 <div align= "center">
 <img src="web-development-html-logo-world-wide-web-consortium-create-html-signature.jpg" width ="35" height = 40>
-<img src="th (2).jpg" width ="40" height = 40>
+<img src="th (2).jpg" width ="50" height = 40>
 <img src="Java-Logo-1080x675.jpg" width ="40" height = 40>
 </div>
 
