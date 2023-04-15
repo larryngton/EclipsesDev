@@ -32,9 +32,9 @@
 - **Languages**:
 
 <div align= "center">
-<img src="web-development-html-logo-world-wide-web-consortium-create-html-signature.jpg" width ="30" height = 40>
-<img src="th (2).jpg" width ="30" height = 40>
-<img src="Java-Logo-1080x675.jpg" width ="30" height = 40>
+<img src="web-development-html-logo-world-wide-web-consortium-create-html-signature.jpg" width ="35" height = 40>
+<img src="th (2).jpg" width ="35" height = 40>
+<img src="Java-Logo-1080x675.jpg" width ="35" height = 40>
 </div>
 
 <br>   
