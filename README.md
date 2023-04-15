@@ -31,7 +31,9 @@
 
 - **Languages**:
 
-<img src="web-development-html-logo-world-wide-web-consortium-create-html-signature.jpg" width ="25"><b> Html</b>
+<img src="web-development-html-logo-world-wide-web-consortium-create-html-signature.jpg" width ="25">
+<img src="th (2).jpg" width ="25">
+<img src="Java-Logo-1080x675.jpg" width ="25">
 
 <br>   
 <!--
