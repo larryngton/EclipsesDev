@@ -15,7 +15,7 @@
 
 <br>
 
-- Currently learning HTML, CSS & Little bit of Java
+- Currently learning Kotlin, Java, HTML, CSS
 - Playing Minecraft & Watching Youtube at spare time
 - Currently learning Web Development by Self
 - My Personal Website <a href="https://eclipses.pw" target="_blank">Link</a>
@@ -32,7 +32,7 @@
 - **Languages**:
 
 <div align= "center">
-<p>HTML, CSS, C#, JAVA</p>
+<p>HTML, CSS, C#, JAVA, KOTLIN</p>
 <!-- <img src="web-development-html-logo-world-wide-web-consortium-create-html-signature.jpg" width ="35" height = 40> -->
 <!-- <img src="th (2).jpg" width ="45" height = 40> -->
 <!-- <img src="Java-Logo-1080x675.jpg" width ="40" height = 40> -->
