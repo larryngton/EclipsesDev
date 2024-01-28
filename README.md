@@ -90,7 +90,7 @@ BROKEN CODE
 -->
 
  <!-- NEW CODE -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EclipsesDev&show_icons=true&locale=en" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EclipsesDev&show_icons=true&locale=en"/>
 
 </a>
 </div>
