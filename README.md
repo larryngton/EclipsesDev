@@ -7,8 +7,8 @@
 <br>
 
 - 🌱 Currently learning Kotlin, Java, HTML, CSS
-- ⚡ Playing Minecraft & Watching Youtube in spare time
-- 💻 Currently learning Web Development on my own
+- ⚡ Playing Minecraft & Watching YouTube in spare time
+- 💻 Currently learning Kotlin to develop a Minecraft hack client
 - 🔗 My Personal Website: [Link](https://eclipses.pw)
 
 <br><br>
@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <b>Softwares and Tools:</b>
+  <b>Software and Tools:</b>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 ## 📫 Let's Connect..!
 
 <div align="left">
-  <b>My Discord:</b> Eclipses#3872
+  <b>Discord:</b> Eclipses#3872
   <br>
   <b>Credit README Code to <a href="https://github.com/0xabdulkhalid" target="_blank">0xAbdulKhalid</a></b>
 </div>
