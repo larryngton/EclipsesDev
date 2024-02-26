@@ -72,7 +72,6 @@
 <div align="left">
   <b>Discord:</b> Eclipses#3872
   <br>
-  <b>Credit README Code to <a href="https://github.com/0xabdulkhalid" target="_blank">0xAbdulKhalid</a></b>
 </div>
 
 <br>
